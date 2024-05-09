@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JKAdministrator/my-app/static/css/main.dbb33c35.css",
+    "main.js": "/JKAdministrator/my-app/static/js/main.ba1d6cd2.js",
+    "static/js/453.ed3810f9.chunk.js": "/JKAdministrator/my-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/JKAdministrator/my-app/index.html",
+    "main.dbb33c35.css.map": "/JKAdministrator/my-app/static/css/main.dbb33c35.css.map",
+    "main.ba1d6cd2.js.map": "/JKAdministrator/my-app/static/js/main.ba1d6cd2.js.map",
+    "453.ed3810f9.chunk.js.map": "/JKAdministrator/my-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbb33c35.css",
+    "static/js/main.ba1d6cd2.js"
+  ]
+}
